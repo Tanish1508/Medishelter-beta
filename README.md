@@ -5,4 +5,6 @@ The frontend and Backend location - /fabric-samples/asset-transfer-basic/applica
 
 Chaincode Location - /fabric-samples/asset-transfer-basic/chaincode-javascript/lib
 
+Fabric Network - /fabric-samples/test-network
+
 
